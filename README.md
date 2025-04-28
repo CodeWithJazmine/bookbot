@@ -26,9 +26,12 @@ This project was built as part of my learning journey with Boot.dev to practice 
 python main.py path_to_book.txt
 
 For example:
+```bash
 python main.py books/frankenstein.txt
+```
 
 ## Sample Output
+```
 ========== BOOKBOT ==========
 Analyzing book found at [book_file]
 ---------- Word Count ----------
@@ -37,6 +40,7 @@ Found [num_words] total words
 [char]: [count]
 ...
 ========== END ==========
+```
 
 ## Project Structure
 
