@@ -18,6 +18,12 @@ This project was built as part of my learning journey with Boot.dev to practice 
 - Track character frequency and display sorted results
 - Command-line interface for easy use with any text file
 
+## Demo
+
+
+https://github.com/user-attachments/assets/f19293eb-3fd0-485c-813b-fa2690ac3c0c
+
+
 ## How to Use
 
 1. Clone this repository
