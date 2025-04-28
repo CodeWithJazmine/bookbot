@@ -34,7 +34,7 @@ python main.py path_to_book.txt
 
 For example:
 ```bash
-python main.py books/frankenstein.txt
+python3 main.py books/frankenstein.txt
 ```
 
 ## Sample Output
