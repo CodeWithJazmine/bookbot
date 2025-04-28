@@ -1,6 +1,7 @@
 # BookBot
 
-BookBot - Python command-line application that analyzes text files to generate statistical reports on word and character usage. Built as part of [Boot.dev](https://www.boot.dev) curriculum using Python, Git, and GitHub.
+BookBot - a Python command-line tool that analyzes text files and displays word count and character statistics. 
+Built as part of [Boot.dev](https://www.boot.dev) curriculum using Python, Git, and GitHub.
 
 ## Project Overview
 
